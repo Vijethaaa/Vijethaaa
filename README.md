@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vijethaaa
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning UI/UX and MYSQL
 
 
 <!---
