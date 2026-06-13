@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Vijethaaa
-- 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning UI/UX and MYSQL
-
 
 <!---
 Vijethaaa/Vijethaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
